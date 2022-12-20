@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-/*
+/*gjkgjfguk
 bool CorrectDNI(int& x, char& characterDNI) {
 	int modulo23 = x % 23;
 	bool correct = false;
